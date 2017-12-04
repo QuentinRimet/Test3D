@@ -1,13 +1,13 @@
 # Test3D
 
-Ce projet fait entre mes 2 années de DUT Informatique correspond à ma decouverte de la 3D en utilisant java3D. Apres de nombreuse recherche et test je decide de creer mes propres formes ainsi qu'une camera deplacable par clavier pour simplifier le fonctionnement de ceux-ci.
+Ce projet fait entre mes 2 années de DUT Informatique correspond à ma découverte de la 3D en utilisant java3D. Après de nombreuses recherches et test je décide de créer mes propres classes de formes ainsi qu'une caméra déplaçable par clavier pour simplifier le fonctionnement de ceux-ci.
 
-On peut donc maintenant facilement rajouter des panneaux ou des "cylindres transformables" (on peut decider de retrecir ou non les bases du haut ou du bas), les faires tourner sur eux-meme en continue, les faires se deplacer dans le temps, changer leurs rotations et position x, y , z et aussi facilement changer leurs apparances (plein ou bordure).
+On peut donc maintenant facilement rajouter des panneaux ou des. "cylindres transformables" (on peut décider de rétrécir ou non les bases du haut ou du bas), les faire tourner sur eux-mêmes en continue, les faire se déplacer dans le temps, changer leurs rotations et positions x, y , z et aussi facilement changer leur apparence (plein ou bordure).
 
-On peut aussi deplacer la camera dans l'univers 3D environnant simplement grace aux touches :
+On peut aussi déplacer la caméra dans l'univers 3D environnant simplement grâce aux touches 
 
     "z" : marcher devant
-    "s" : marcher derriere
+    "s" : marcher derrière
     "a" : marcher à gauche
     "e" : marcher à droite
     "q" : rotation à gauche
